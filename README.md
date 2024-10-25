@@ -4,9 +4,11 @@ To help you build the House Price Prediction model and set up everything, includ
 
 ### Step 1: Prepare the Environment
 We will use Python for the machine learning model with libraries like:
-- **pandas** for data manipulation
-- **scikit-learn** for building and training the model
-- **matplotlib** and **seaborn** for visualizations (optional)
+- pandas for data manipulation
+- scikit-learn for building and training the model
+- matplotlib and seaborn for visualizations (optional)
+- numpy for working with arrays
+
 
 Ensure that you have the following libraries installed in your environment:
 ```bash
